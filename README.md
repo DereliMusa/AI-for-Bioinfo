@@ -5,6 +5,7 @@ This repo is made publicly available as a resource for learning applications of 
 ---
 # :file_folder: Folder Directory
 
+```
 AI-for-Bioinfo/
 ├── Lecturer - 1/                 # Lecture Folder
 │   ├── lecture.pdf               # Main Lecture Presentation
@@ -25,7 +26,7 @@ AI-for-Bioinfo/
 ├── README.md                     # Information About the Repository
 ├── LICENSE                       # License Info
 └── .gitignore                    # Git Ignored Files
-
+```
 
 ## Lesson Summaries
 - Lecture 1: Introduction ML and Bioinformatic application also development enviroment setup
