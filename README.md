@@ -9,6 +9,7 @@ This repo is made publicly available as a resource for learning applications of 
 AI-for-Bioinfo/
 ├── Lecturer - 1/                 # Lecture Folder
 │   ├── lecture.pdf               # Main Lecture Presentation
+│   ├── cheatsheet.pdf            # Some of the codes used in the course
 │   ├── data/                     # Data storage
 │   │   ├── image[order].svg      # Assets
 │   │   ├── data.csv              # CSV File
