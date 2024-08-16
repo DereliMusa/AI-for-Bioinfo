@@ -3,32 +3,29 @@
 This repo is made publicly available as a resource for learning applications of machine learning and deep learning in bioinformatics
 
 ---
-## :file_folder: Folder Directory
-**`AI-for-Bioinfo/`**
-│
-├── **`Lecturer - 1/`** # Lecture Folder
-│ ├── **`lecture.pdf`** # Main Lacture Presentation
-│
-│ ├── **`data/`** # Data storage
-│ │ ├── **`image[order].svg` # Assets
-│ │ ├── **`data.csv`** # CSV File
-│ │ └── **`data.xlsx`** # Excel File
-│
-│ ├── **`src/`** # Data storage
-│ │ ├── **`notebook.ipynb`** # Notebook File
-│ │ ├── **`src.py`** # Python File
-│ │ ├── **`src.r`** # R File
-│
-├── **`homework/`** # Homework Folder
-│ │ ├── **`README.md`** # Homework Description
-│ │ ├── **`reading.pdf`** # Reading Passage 
-│ │ ├── **`src.py/r/ipynb`** # Source Code for Homework
-│ │ └── **`report.md`** # Research Report on the Reading Passage
-│
-├── **`requirements.txt`** # Dependicies
-├── **`README.md`** # Information About the Repository
-├── **`LICENSE`** # Licence Info
-└── **`.gitignore`** # Git tarafından yoksayılan dosyalar
+# :file_folder: Folder Directory
+
+AI-for-Bioinfo/
+├── Lecturer - 1/                 # Lecture Folder
+│   ├── lecture.pdf               # Main Lecture Presentation
+│   ├── data/                     # Data storage
+│   │   ├── image[order].svg      # Assets
+│   │   ├── data.csv              # CSV File
+│   │   └── data.xlsx             # Excel File
+│   ├── src/                      # Source Code
+│   │   ├── notebook.ipynb        # Notebook File
+│   │   ├── src.py                # Python File
+│   │   └── src.r                 # R File
+│   ├── homework/                 # Homework Folder
+│   │   ├── README.md             # Homework Description
+│   │   ├── reading.pdf           # Reading Passage
+│   │   ├── src.py/r/ipynb        # Source Code for Homework
+│   │   └── report.md             # Research Report on the Reading Passage
+├── requirements.txt              # Dependencies
+├── README.md                     # Information About the Repository
+├── LICENSE                       # License Info
+└── .gitignore                    # Git Ignored Files
+
 
 ## Lesson Summaries
 - Lecture 1: Introduction ML and Bioinformatic application also development enviroment setup
